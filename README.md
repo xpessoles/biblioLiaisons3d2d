@@ -1,4 +1,4 @@
-# Bibilothèque 3d/2d de schémas cinématiques /  Library 3d/2d kinematic diagrams
+# Bibliothèque 3d/2d de schémas cinématiques /  Library 3d/2d kinematic diagrams
 
 ## Description
 
@@ -8,15 +8,46 @@ The purpose of this library is to draw kinematic diagrams in 3D and 2D using the
 ### Français
 Cette bibliothèque a pour objectif de tracer en 3d et 2d des schémas cinématiques avec les mêmes commandes. Les différents formats de sortie sont notamment pdf et png. C'est une bibliothèque utilisant le langage Asymptote, par conséquent elle est parfaitement intégrable à LaTeX. De plus, comme on code le schéma cinématique, vous pourrez animer vos schémas.
 
+## Quick Gallery 
+> [!TIP]
+> click on the image to bring you to the max resolution image.
+
+- [Falcon haptic - animation](./examples/falconHaptic_anim/)
+
+[<img src="./examples/falconHaptic_anim/falconHaptic_droite_gif.gif" height="300"/>](./examples/falconHaptic_anim/falconHaptic_droite_gif.gif)
+[<img src="./examples/falconHaptic_anim/falconHaptic_cercle_gif.gif" height="300"/>](./examples/falconHaptic_anim/falconHaptic_cercle_gif.gif)
+
+- [imprimante 3d Delta](./examples/I3D) / [animation](./examples/I3D_anim)
+ 
+[<img src="./examples/I3D/I3D_iso.png" height="300"/>](./examples/I3D/I3D_iso.png)
+[<img src="./examples/I3D_anim/I3D_iso_gif.gif" height="300"/>](./examples/I3D_anim/I3D_iso_gif.gif)
+
+- [concasseur de galets](./examples/concasseur)
+
+[<img src="./examples/concasseur/concasseur_iso.png" height="300"/>](./examples/concasseur/concasseur_iso.png)
+[<img src="./examples/concasseur/concasseur_yz.png" height="300"/>](./examples/concasseur/concasseur_yz.png)
+
+
+- [faucheuse](./examples/faucheuse)
+
+[<img src="./examples/faucheuse/faucheuse_iso.png" height="300"/>](./examples/faucheuse/faucheuse_iso.png)
+[<img src="./examples/faucheuse/faucheuse_xy.png" height="300"/>](./examples/faucheuse/faucheuse_xy.png)
+
+- [sinusmatic](./examples/sinusmatic)
+ 
+[<img src="./examples/sinusmatic/sinusmatic_iso.png" height="300"/>](./examples/sinusmatic/sinusmatic_iso.png)
+[<img src="./examples/sinusmatic/sinusmatic_3d_another.png" height="300"/>](./examples/sinusmatic/sinusmatic_3d_another.png)
+
+- and more to view in the examples folder [examples](./examples/).
 
 ## Installation and use
 
 ### English
-For all information, see the documentation.pdf file.
+For all information, see the [documentation.pdf](./documentation/documentation.pdf) file.
 
 
 ### Français
-Pour toute information, voir le fichier documentation.pdf.
+Pour toute information, voir le fichier [documentation.pdf](./documentation/documentation.pdf).
 
 
 ## License / Licence

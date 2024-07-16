@@ -12,7 +12,7 @@
                 "0_run.bat"
             ],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/testBiblio/",
             "environment": [],
             "console": "externalTerminal"
         }
